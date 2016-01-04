@@ -114,4 +114,12 @@ public class Code {
      * 返回键
      */
     public static final int ACTION_SYSTEM_BACK = 0x703;
+    /**
+     * 话筒
+     */
+    public static final int ACTION_MICROPHONE = 0x704;
+    /**
+     * 远程监控
+     */
+    public static final int ACTION_MONITORING = 0x705;
 }
